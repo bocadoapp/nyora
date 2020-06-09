@@ -5,10 +5,7 @@ from pathlib import Path
 import random
 
 def offseter (label, doc, matchItem):
-  # print(label, doc, matchItem)
   o_one = len(str(doc[0:matchItem[1]])) + 1
-  # print("doc[0:matchItem[1]] " + str(doc[0:matchItem[1]]))
-  # print("o_one " + str(o_one))
   subdoc = doc[matchItem[1]:matchItem[2]]
   o_two = o_one + len(str(subdoc))
   return (o_one, o_two, label)
