@@ -14,6 +14,16 @@ nyora ~és~ serà la intel.ligència artificial de bocado. Inclourà diferents b
 - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/text-analytics/
 - https://spoonacular.com/food-api
 
+## Classification
+### Ingredient classification based on ingredient properties
+- https://towardsdatascience.com/solving-a-simple-classification-problem-with-python-fruits-lovers-edition-d20ab6b071d2
+- https://towardsdatascience.com/python-for-data-science-a-guide-to-classification-machine-learning-9ff51d237842
+
+### Recipe classification by origin
+- http://jmcauley.ucsd.edu/cse190/projects/fa15/022.pdf
+- http://www.romanklinger.de/publications/kicherer2017-nldb.pdf 
+- https://towardsdatascience.com/https-towardsdatascience-com-end-to-end-recipe-cuisine-classification-e97f4ac22104
+
 ## Image analysis
 ### Interesting Github Repositories
 - https://github.com/npatta01/mobile-deep-learning-classifier
