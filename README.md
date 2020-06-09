@@ -14,7 +14,7 @@ nyora ~és~ serà la intel.ligència artificial de bocado. Inclourà diferents b
 - https://azure.microsoft.com/en-us/pricing/details/cognitive-services/text-analytics/
 - https://spoonacular.com/food-api
 
-## Named Entity Recognition
+## Image analysis
 ### Interesting Github Repositories
 - https://github.com/npatta01/mobile-deep-learning-classifier
 - https://github.com/Murgio/Food-Recipe-CNN
