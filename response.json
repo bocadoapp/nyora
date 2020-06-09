@@ -1,0 +1,9 @@
+{
+  "cuisine": "french",
+  "estimated_cooking_time": 40,
+  "diners": 4,
+  "is_veggie": false,
+  "is_low_carb": true,
+  "is_low_fat": false,
+  "is_high_fat": true
+}
