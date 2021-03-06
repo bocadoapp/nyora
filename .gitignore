@@ -6,7 +6,7 @@ __pycache__/
 crawler-python/__pycache__/
 *.py[cod]
 *$py.class
-crawler/**/*
+crawler/node_modules
 
 # C extensions
 *.so
